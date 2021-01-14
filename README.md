@@ -94,20 +94,14 @@
 
     3. MacOS
 
-### 方法二：云服务器、腾讯云函数等等
 
-  - 需自行有云服务器，云函数等
-  - 腾讯云云函数 [快速部署教程](./backUp/tencentscf.md)（免费）
-  - 腾讯云云函数控制台使用 [教程说明](./backUp/iCloud.md)
-  - 腾讯云云函数 [GitHub Action部署教程](./backUp/tencentscf.md#github-action-部署)
-       
  
 
  
 
 
 
-  - 如果使用方法一与方法二，需自行提供京东cookie填写到 [jdCookie.js](https://github.com/lxk0301/jd_scripts/blob/master/jdCookie.js) 里面
+  - 如果使用方法一与方法二，需自行提供京东cookie填写到 [jdCookie.js](https://raw.githubusercontent.com/a1758446/Scipts/main/jdCookie.js) 里面
 
    
  
